@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Robin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-robin-f-00/robin-f-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello Robin here
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning cpp basic.
+- 💞️ I’m looking to collaborate on a team for hackerthon.
+- 📫 I am a open book.
